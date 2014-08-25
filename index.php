@@ -34,6 +34,7 @@ require "include.php";
 <body>
 <div id="menudiv">
 <ui id="menu">
+	<li class="menuitem">This is Johns Build</li>
 	<li class="menuitem"><a href="index.php">Home</a></li>
 	<li class="menuitem"><a href="posts.php">Posts</a></li>
 	<li class="menuitem"><a href="search.php">Search</a></li>
