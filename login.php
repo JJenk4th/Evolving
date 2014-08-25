@@ -24,7 +24,6 @@ if (isset($_POST["submit"]) AND $_POST["submit"]=='login') {
   	$row = $result->fetch();
  
 
-  	echo "You're In";
 
   	if(isset($_SESSION['count']) ==false)
   	{
